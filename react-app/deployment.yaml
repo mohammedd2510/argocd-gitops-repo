@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: route-demo
-          image: ghcr.io/mohammedd2510/react-app-cicd:da6f3c0953392703baa2ce76f9e393996172f85f
+          image: ghcr.io/mohammedd2510/react-app-cicd:98b0f4a024a282f65aca7250439aef66e7d69257
           imagePullPolicy: Always
           ports:
             - containerPort: 80
